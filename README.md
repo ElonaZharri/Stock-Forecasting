@@ -1,3 +1,3 @@
 # Stock_Forecasting
 #### The domain of financial time series data is complicated due to its random walk process, unpredictable day to day variations and being time dependable. Due to the fact that stock markets are affected by many highly interrelated economic, political and even psychological factors, it is very difficult to forecast the movement of the stock market.
-#### This project is focused on answering “How close can we get in predicting the stock market.”, by utilizing a variety of exploratory techniques and different supervised machine learning algorithms such as: Linear Regression, Random Forest, Support Vector Machine and Gradient Boosting Trees.
+#### This project is focused on answering “How close can we get in predicting the stock market?”, by utilizing a variety of exploratory techniques and different supervised machine learning algorithms such as: Linear Regression, Random Forest, Support Vector Machine and Gradient Boosting Trees.
